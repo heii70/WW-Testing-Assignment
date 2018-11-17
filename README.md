@@ -10,5 +10,5 @@ To run test:
 
 For manual run:
 	
-	open up a terminal and navigate to the bin folder
-	run "java -jar filename.jar" for each test
+	open up a terminal and to the work directory
+	run "java -jar bin/${filename}.jar" for each test
